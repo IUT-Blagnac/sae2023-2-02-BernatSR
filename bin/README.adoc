@@ -45,11 +45,11 @@ Merci à mailto:saadialbane@gmail.com:[Saadia Albane] pour l'idée du problème 
 
 === De la solution...
 
-* LAST NAME : SOLDEVILA RIVAS
-* First name : Bernat
+* LAST NAME : DOE
+* First name : John
 * TD group : 
-- [x] 1
-- [ ] 2
+- [ ] 1
+- [x] 2
 - [ ] 3
 - [ ] 4
 
@@ -194,23 +194,20 @@ WARNING: Les répertoires et fichiers existants devront être complétés et mis
 
 Voici les pré-requis pour exécuter nos codes d'évaluation.
 
-- Java 11 
-- Un ordinateur avec un système d'exploitation (Windows, Linux, Mac OS, ...)
-- Un éditeur de code (e.g., {vscode}, {atom}, {sublime}, ...) ou un IDE (e.g., {eclipse}, {intellij}, {netbeans}, ...) pour exécuter les codes
+- Java v.x.y.z
+- ...
 
 === Reproductibilité
 
 - Pour reproduire nos analyses :
-. Téléchargez le code source de notre projet
-. Compilez le code source 
-. Exécutez le code compilé (Pour lancer les tests et les mesures de performance executez le fichier `Main.java` ) 
-. Analysez et observez les résultats
-
+. Installez X
+. Lancez Y
+. ...
 
 === Références
 
-- {codacy} : https://www.codacy.com/
-- {joular} : https://www.noureddine.org/research/joular
+- link:http://xyz[Mon super outil XYZ]
+- ...
 
 == Généralités, notation de la SAÉ et résultat du concours
 
